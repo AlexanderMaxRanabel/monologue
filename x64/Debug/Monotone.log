@@ -1,0 +1,16 @@
+﻿  frontend.cpp
+C:\Users\User\source\repos\Monotone\frontend.cpp(7,13): warning C4129: ' ': tanınmayan karakter kaçış sırası
+C:\Users\User\source\repos\Monotone\frontend.cpp(8,13): warning C4129: ' ': tanınmayan karakter kaçış sırası
+C:\Users\User\source\repos\Monotone\frontend.cpp(9,13): warning C4129: ' ': tanınmayan karakter kaçış sırası
+C:\Users\User\source\repos\Monotone\frontend.cpp(10,13): warning C4129: '$': tanınmayan karakter kaçış sırası
+C:\Users\User\source\repos\Monotone\frontend.cpp(10,13): warning C4129: ' ': tanınmayan karakter kaçış sırası
+C:\Users\User\source\repos\Monotone\frontend.cpp(11,13): warning C4129: '$': tanınmayan karakter kaçış sırası
+C:\Users\User\source\repos\Monotone\frontend.cpp(12,13): warning C4129: '$': tanınmayan karakter kaçış sırası
+C:\Users\User\source\repos\Monotone\frontend.cpp(13,13): warning C4129: '_': tanınmayan karakter kaçış sırası
+C:\Users\User\source\repos\Monotone\frontend.cpp(13,13): warning C4129: '$': tanınmayan karakter kaçış sırası
+C:\Users\User\source\repos\Monotone\frontend.cpp(13,13): warning C4129: ' ': tanınmayan karakter kaçış sırası
+C:\Users\User\source\repos\Monotone\frontend.cpp(14,13): warning C4129: '_': tanınmayan karakter kaçış sırası
+C:\Users\User\source\repos\Monotone\frontend.cpp(15,13): warning C4129: ' ': tanınmayan karakter kaçış sırası
+C:\Users\User\source\repos\Monotone\frontend.cpp(16,13): warning C4129: '$': tanınmayan karakter kaçış sırası
+C:\Users\User\source\repos\Monotone\frontend.cpp(17,13): warning C4129: '_': tanınmayan karakter kaçış sırası
+  Monotone.vcxproj -> C:\Users\User\source\repos\Monotone\x64\Debug\Monotone.exe
